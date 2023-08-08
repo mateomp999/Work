@@ -1,0 +1,23 @@
+BIP Music Caso
+BIP Music es una empresa que se dedica al streaming de música a través de su aplicación. BIP Music ofrece música grabada y podcast restringidos por derechos de autor que incluyen más de 200 millones de canciones. Su modelo de negocio es freemium, es decir, los usuarios pueden acceder a las opciones básicas de manera gratuita con anuncios y control limitado, mientras que si un usuario quiere acceder a todas las funciones de la aplicación deberá pagar una suscripción mensual de COP$19.900.
+En los últimos años, BIP Music ha tenido un estancamiento de sus suscriptores por lo que sus directores han buscado diferentes alternativas de fuentes de ingresos. Tras un arduo análisis, un grupo de consultores recomendaron a los directivos de la organización incursionar en el negocio de los sellos discográficos, es decir, seleccionar nuevos talentos y promoverlos en sus plataformas.
+Adicionalmente, los consultores destacaron que, al invertir en esta nueva línea de negocio, BIP Music debe fortalecer su base de clientes jóvenes. Por esta razón deberá buscar artistas que tengan mayor impacto en redes sociales y discotecas, es decir, que su música invite a bailar y permita crear contenido de retos de baile en redes sociales.
+Por esta razón, BIP Music lo ha contratado a usted con el fin de obtener un análisis para identificar posibles canciones que pueden ser un hit en las discotecas y redes sociales, y así poder tomar la decisión de firmar al artista por dicha canción o no. Además, BIP Music quiere construir un algoritmo que permita saber si una canción será o no un éxito.
+Para realizar dicho análisis y construcción de modelos, BIP Music le proporciona un set de datos. Defina y explique los supuestos que realice.
+Con la información suministrada usted deberá: Construir una presentación que:
+1. Responda a las siguientes preguntas de negocio
+o ¿Qué supuestos realizó para saber si una canción será un éxito o no en las discotecas
+y redes sociales?
+o ¿Cuánto es el tiempo promedio para que una canción que sea un éxito en redes
+sociales o en una discoteca, es decir, sea muy bailable? ¿Existe una gran diferencia
+entre esos tiempos?
+o ¿Qué género es el más bailado de todos?
+o Al final: ¿Qué recomendación haría a BIP Music?
+2. Explique el proceso de construcción que utilizo para desarrollar un algoritmo que predice si una canción será un éxito en redes sociales y en una discoteca
+o Explicar el proceso de limpieza de datos
+o Proponer una variable objetivo y explicar cuáles son las variables más significativas
+o Explicar el algoritmo de machine learning utilizado y justificar su selección
+o ¿En este caso prefiere tener un algoritmo con alta tasa de precisión o con alta tasa de
+especificidad? ¿Por qué?
+o ¿Qué resultados obtuvo? i.e. ¿Cuál es la exactitud? ¿la precisión? ¿exhaustividad?
+¿especificidad?
